@@ -5,10 +5,12 @@ This is a Python3 based 2048 Game. Easy to play. Runs with WASD. W = UP, A = LEF
 
 ### One is 2048.py
 ![screenshot](img/captureB.png)
+
 2048.py is for Linux, Windows & Mac. Can control with **W = UP, A = LEFT, S = DOWN, D = RIGHT** or **I = UP, J = LEFT, K = DOWN, L = RIGHT**.
 
 ### Another is 2048-term.py
 ![screenshot](img/captureA.png)
+
 2048.py is desgined for Termux Users. Can control with **W = UP, A = LEFT, S = DOWN, D = RIGHT, E = EXIT THE SCRIPT**.
 
 
