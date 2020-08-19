@@ -1,4 +1,4 @@
-# 2048 ![GitHub repo size](https://img.shields.io/github/repo-size/AbirHasan2005/2048?label=Repo%20Size)
+# 2048
 This is a Python3 based 2048 Game. Easy to play. Runs with WASD. W = UP, A = LEFT, S = DOWN, D = RIGHT
 
 ## There are two 2048 varients in this repository:
