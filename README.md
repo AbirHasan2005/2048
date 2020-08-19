@@ -11,7 +11,7 @@ This is a Python3 based 2048 Game. Easy to play. Runs with WASD. W = UP, A = LEF
 ### Another is 2048-term.py
 ![screenshot](img/captureA.png)
 
-2048.py is desgined for Termux Users. Can control with **W = UP, A = LEFT, S = DOWN, D = RIGHT, E = EXIT THE SCRIPT**.
+2048-term.py is desgined for Termux Users. Can control with **W = UP, A = LEFT, S = DOWN, D = RIGHT, E = EXIT THE SCRIPT**.
 
 
 ### For any help, feedback, updates and chat:
